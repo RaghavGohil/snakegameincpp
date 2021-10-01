@@ -6,7 +6,7 @@
 
 compile main.cpp
 
-###How to play game:
+### How to play game:
 
 WASD
 
